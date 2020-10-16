@@ -1,4 +1,4 @@
-# data-visualization-using-python
+# Data Visualization using Python
 
-
-![alt text](https://github.com/Freeloc-Free-lines-of-Code/data-visualization-using-python/blob/master/visualization.gif?raw=true)
+Plotting Developer Salary Vs Cost of Living w.r.t Countries using Matplotlib and Numpy Libraries.<br/><br/>
+![App Promo](visualization.gif)
